@@ -12,12 +12,15 @@ Before this tool was developed, the daily production planning at a manufacturing
 The tool was built with a clean, mobile-responsive UI using Streamlit, deployed internally under the project name **Tamago Master**.
 
 **Automated Sync Dashboard** *Secure login interface that triggers the headless Selenium scraper to fetch daily targets.*
+
 ![Auto-Sync View](assets/images/tamago-standard.png)
 
 **Manual Fallback Mode** *A built-in calculator to ensure production planning can continue even if the target database structure changes or goes offline.*
+
 ![Manual Entry View](assets/images/tamago-manual.png)
 
 **Mobile-Optimized UI** *Designed specifically for floor managers to operate easily from their mobile devices while on the active factory floor.*
+
 ![Mobile View](assets/images/tamago-mobile.png)
 
 ## 🎯 My Role & Technical Focus
